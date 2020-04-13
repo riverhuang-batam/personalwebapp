@@ -1,0 +1,15 @@
+.content{
+    text-align: center;
+    padding-top: 80px;
+}
+.logo{
+    width:30%;
+}
+.text-primary{
+    color: #0ed8ce;
+    padding: 10px 0 10px 0;
+}
+.text-white{
+    color: #f7e8e8;
+    padding: 10px 0 10px 0;
+}

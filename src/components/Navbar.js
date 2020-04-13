@@ -1,11 +1,13 @@
 import React, {Component} from 'react'
 import './Navbar.css'
+
 import logo from '../logo.svg'
 class Navbar extends Component{
     render(){
         return(
             <header>
                 <img src={logo} alt={logo} className="navbar-logo"/>
+                
             <nav>
                 
                 <ul className="nav_links">

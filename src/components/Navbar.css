@@ -28,3 +28,7 @@ header{
 .navbar-logo{
     width: 80px;
 }
+.text-white{
+    color: #f7e8e8;
+    padding: 10px 0 10px 0;
+}
